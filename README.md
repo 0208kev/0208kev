@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0208kev
 - 👀 I live in Korea.
-- 📚 I am good at geomatery.
+- 📚 I am good at geometry.
 - 🐲 I'm studying kali linux and AI detecting.
 
 <!---
