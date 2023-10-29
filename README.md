@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @0208kev
 - 👀 I live in Korea.
-- 📚 I am good at physics.
+- 📚 I am good at geomatery.
+- 🐲 I'm studying kali linux and AI detecting.
 
 <!---
 0208kev/0208kev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
